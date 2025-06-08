@@ -1,5 +1,9 @@
 theme: minima
-title: Sitio de Luis Miguel
-description: Página creada como parte del ejercicio GitHub Pages
 
-
+nav:
+  - title: "Inicio"
+    url: "/"
+  - title: "Currículum"
+    url: "/cv/"
+  - title: "Contacto"
+    url: "/contacto/"
