@@ -1,5 +1,9 @@
 theme: minima
 
+minima:
+  skin: classic
+  include_css: false
+
 nav:
   - title: "Inicio"
     url: "/"
@@ -9,11 +13,12 @@ nav:
     url: "/contacto/"
   - title: "Proyectos"
     url: "/proyectos/"
+
 sass:
   style: compressed
 
 include:
-  - assets/css
+  - activo/custom.css
 
 defaults:
   -
@@ -28,11 +33,3 @@ defaults:
       type: "pages"
     values:
       layout: default
-
-theme: minima
-
-# Añade este:
-minima:
-  skin: classic
-  include_css: false
-
