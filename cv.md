@@ -43,8 +43,6 @@ Haz clic en cualquier imagen para ampliarla:
 
 </div>
 
-He completado con éxito los siguientes cursos oficiales de AWS:
-
 - ✅ Game Server Hosting on AWS – 01/06/2025  
 - ✅ AWS for Games Containers Principles – 01/06/2025  
 - ✅ Getting Started with AWS for Games – Parte I – 01/06/2025  
