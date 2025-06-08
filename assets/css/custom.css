@@ -1,0 +1,26 @@
+/* Cambiar colores generales del sitio */
+body {
+  background-color: #ffffff; /* fondo blanco */
+  color: #333333; /* texto principal */
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Encabezado y enlaces */
+header, h1, h2, h3 {
+  color: #0a3d62; /* azul oscuro */
+}
+
+a {
+  color: #1e3799;
+}
+a:hover {
+  color: #4a69bd;
+}
+
+/* Pie de página */
+footer {
+  background-color: #f1f1f1;
+  color: #888;
+  padding: 1em;
+  text-align: center;
+}
