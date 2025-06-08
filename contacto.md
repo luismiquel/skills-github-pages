@@ -6,13 +6,25 @@ permalink: /contacto/
 
 # 📬 Contacto
 
-Si deseas ponerte en contacto conmigo, puedes escribirme a:
+Si deseas ponerte en contacto conmigo, rellena el siguiente formulario. Te responderé lo antes posible.
 
-**📧 Email:** luismiquel123@gmail.com  
-**📱 WhatsApp:** (+34) [tu número]  
-**🌐 GitHub:** [github.com/luismiquel](https://github.com/luismiquel)
+<form action="https://formspree.io/f/mjkryvpw" method="POST">
+  <label>Tu nombre:<br>
+    <input type="text" name="name" required>
+  </label><br><br>
 
-También puedes dejarme un mensaje a través del formulario que añadiré próximamente.
+  <label>Email:<br>
+    <input type="email" name="_replyto" required>
+  </label><br><br>
+
+  <label>Mensaje:<br>
+    <textarea name="message" rows="6" required></textarea>
+  </label><br><br>
+
+  <button type="submit">Enviar</button>
+</form>
 
 ---
-Gracias por tu interés. ¡Nos mantenemos en contacto!
+
+También puedes escribirme directamente a:  
+📧 **luismiquel123@gmail.com**
