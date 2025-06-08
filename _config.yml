@@ -9,4 +9,30 @@ nav:
     url: "/contacto/"
   - title: "Proyectos"
     url: "/proyectos/"
+sass:
+  style: compressed
+
+include:
+  - assets/css
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+theme: minima
+
+# Añade este:
+minima:
+  skin: classic
+  include_css: false
 
