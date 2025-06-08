@@ -2,6 +2,6 @@
 title: Welcome to my blog!
 ---
 <!-- Cambio forzado para activar el bot -->
-/assets/img/basilica-pilar.jpg
+![Basílica del Pilar](/assets/img/basilica-pilar.jpg){: style="max-width:600px; display:block; margin:auto;" }
 
 
