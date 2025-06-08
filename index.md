@@ -18,6 +18,7 @@ Me defino como una persona constante, organizada y con iniciativa propia. Cada d
 > “El esfuerzo constante y la actitud marcan la diferencia.”
 
 🌐 En esta página iré compartiendo ideas, herramientas y recursos útiles para quien quiera avanzar y destacar en su camino.
+![Basílica del Pilar](/assets/img/basilica-pilar.jpg){: style="max-width:600px; display:block; margin:auto;" }
 
 
 
