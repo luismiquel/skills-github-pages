@@ -8,4 +8,5 @@ nav:
   - title: "Contacto"
     url: "/contacto/"
   - title: "Proyectos"
-    url: /proyectos
+    url: "/proyectos/"
+
