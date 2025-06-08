@@ -7,3 +7,5 @@ nav:
     url: "/cv/"
   - title: "Contacto"
     url: "/contacto/"
+  - title: "Proyectos"
+    url: /proyectos
